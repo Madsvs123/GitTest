@@ -1,0 +1,16 @@
+* {
+    margin  : 0;
+    padding : 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color : #444;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4rem;
+    font-weight: bold;
+    color: #EEE;
+    height: 100vh;
+}
